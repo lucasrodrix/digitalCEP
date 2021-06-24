@@ -1,0 +1,23 @@
+{
+    "name": "lucas/digital-cep",
+    "description": "Busca de CEP online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0":{
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Lucas\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Rodrix",
+            "email": "lucasrodrigues1985.lfr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0 "
+    }
+}
