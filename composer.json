@@ -1,5 +1,5 @@
 {
-    "name": "lucas/digital-cep",
+    "name": "lucasrodrix/digital-cep",
     "description": "Busca de CEP online",
     "type": "library",
     "license": "MIT",
